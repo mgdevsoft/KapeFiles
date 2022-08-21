@@ -3,7 +3,7 @@ Category: SystemActivity
 Author: Justin Price
 Version: 1.0
 Id: 5875f69b-4de1-418b-b306-db49b9fc0072
-BinaryUrl: https://tzworks.net/download_links.php
+BinaryUrl: https://tzworks.com/download_links.php
 ExportFormat: csv
 FileMask: Microsoft-Windows-TaskScheduler%4Operational.evtx
 Processors:

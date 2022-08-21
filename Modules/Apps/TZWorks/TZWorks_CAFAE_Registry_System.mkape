@@ -3,7 +3,7 @@ Category: Registry
 Author: Scott Downie
 Version: 1.0
 Id: 5405e8ff-e40f-407c-9c73-224b09ef57ba
-BinaryUrl: https://tzworks.net/download_links.php
+BinaryUrl: https://tzworks.com/download_links.php
 ExportFormat: txt
 FileMask: SYSTEM
 Processors:
